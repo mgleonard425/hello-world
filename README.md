@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This is a file that says something about me. I'm pretty interesting.
